@@ -1,29 +1,2 @@
 Base path: C:/Program Files/Unity/Hub/Editor/2018.4.20f1/Editor/Data
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: preprocessCompute
-  insize=6883 outsize=6882 ok=1
-Cmd: compileComputeKernel
-  error: 1 plat 4 at Raymarching.compute(138): 'PrismDistance': implicit truncation of vector type
-  error: 1 plat 4 at Raymarching.compute(141): 'CylinderDistance': implicit truncation of vector type
-  api=4 insize=6882 outsize=38577 ok=1
-Cmd: initializeCompiler
-Cmd: preprocessCompute
-  insize=6883 outsize=6882 ok=1
-Cmd: compileComputeKernel
-  error: 1 plat 4 at Raymarching.compute(138): 'PrismDistance': implicit truncation of vector type
-  error: 1 plat 4 at Raymarching.compute(141): 'CylinderDistance': implicit truncation of vector type
-  api=4 insize=6882 outsize=39025 ok=1
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: preprocessCompute
-  insize=6634 outsize=6633 ok=1
